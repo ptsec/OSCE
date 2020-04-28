@@ -2,7 +2,7 @@
 
 ## Summary
 
-This document contains tips and tools for dealing with OSCE certification.
+This repository contains tips and tools for dealing with OSCE certification.
 
 ## Table of Contents
 
