@@ -1,0 +1,14 @@
+###############################
+
+####### Get The Security String ######
+
+###############################
+
+
+1.run the following javascript Functions:
+
+a = str2binl("\x74\x72\x79\x68\x61\x72\x64\x65\x72"+srvstr)
+b = coreMD5(a)
+c = binl2hex(b)
+
+2. finally get the security string in c variable.
